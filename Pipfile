@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pandas = "1.4.2"
+plotly = "5.13.0"
+nbformat = "5.7.0"
 ipykernel = "*"
 
 [dev-packages]
